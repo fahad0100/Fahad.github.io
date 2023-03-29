@@ -36847,7 +36847,7 @@ A.Hl.prototype={}
 A.CK.prototype={
 R(a){return B.yR}}
 A.C8.prototype={
-R(a){var s,r=null,q=t.F,p=A.l1(A.adi(B.kl,A.a([A.a3p("I'm ",A.UT(B.j,25,B.aw),r,r),A.a3p("Fahad Alazmi",A.UT(B.j,25,B.aw),r,r)],q)),r,r),o=A.l1(A.a3p("Mobile Apps Developer",A.UT(B.j,20,B.n),r,r),r,r),n=A.fM(r,50,r),m=A.l1(new A.fk(new A.aO(0,600,0,1/0),A.adi(B.kl,A.a([new A.jH("assets/icons/email.png",new A.V7(),r),A.fM(r,r,30),new A.jH("assets/icons/phone-call.png",new A.V8(),r),A.fM(r,r,30),new A.jH("assets/icons/twitter.png",new A.V9(),r),A.fM(r,r,30),new A.jH("assets/icons/linkdin.png",new A.Va(),r),A.fM(r,r,30),new A.jH("assets/icons/github.png",new A.Vb(),r)],q)),r),r,r),l=t.w,k=A.l1(new A.fk(new A.aO(350,450,0,1/0),A.fM(new A.AK(2,r),r,a.a7(l).f.a.a/2),r),r,r),j=a.a7(l).f
+R(a){var s,r=null,q=t.F,p=A.l1(A.adi(B.kl,A.a([A.a3p("I'm ",A.UT(B.j,25,B.aw),r,r),A.a3p("Fahad Alazmi",A.UT(B.j,25,B.aw),r,r)],q)),r,r),o=A.l1(A.a3p("Mobile Apps Developer",A.UT(B.j,20,B.n),r,r),r,r),n=A.fM(r,50,r),m=A.l1(new A.fk(new A.aO(0,600,0,400),A.adi(B.kl,A.a([new A.jH("assets/icons/email.png",new A.V7(),r),A.fM(r,r,30),new A.jH("assets/icons/phone-call.png",new A.V8(),r),A.fM(r,r,30),new A.jH("assets/icons/twitter.png",new A.V9(),r),A.fM(r,r,30),new A.jH("assets/icons/linkdin.png",new A.Va(),r),A.fM(r,r,30),new A.jH("assets/icons/github.png",new A.Vb(),r)],q)),r),r,r),l=t.w,k=A.l1(new A.fk(new A.aO(350,450,0,1/0),A.fM(new A.AK(2,r),r,a.a7(l).f.a.a/2),r),r,r),j=a.a7(l).f
 l=a.a7(l).f
 s=A.ql(16)
 q=A.a([B.L3,B.uN,B.GH,B.zm,B.uN,p,new A.Bv(1,B.lU,o,r),n,m,k,new A.fk(new A.aO(25,80,25,80),A.fM(new A.rx(A.acq(A.fM(A.ac4(s,new A.uW("http://fahad-alazmi.com/#/",new A.Ec(r),!1,r)),300,300),"customTag"),B.h,!0,B.lN,r),l.a.a/2,j.a.a/2),r)],q)
