@@ -35116,7 +35116,7 @@ A.Cj.prototype={
 S(a){return B.xX}}
 A.BI.prototype={
 S(a){var s,r,q=null,p=t.R
-p=A.a([B.Jm,B.F0,B.ys,B.F1,A.kT(A.Z8(A.a([A.a2a("I'm ",A.TI(B.k,25,B.au),q,q),A.a2a("Fahad Alazmi",A.TI(B.k,25,B.au),q,q)],p),B.fp,B.dB),q,q),A.kT(A.a2a("Mobile Apps Developer",A.TI(B.k,20,B.p),q,q),q,q),A.iK(q,50,q),A.Z8(A.a([new A.jz("/icons/email.png",new A.TX(),q),A.iK(q,q,10),new A.jz("/icons/phone-call.png",new A.TY(),q),A.iK(q,q,10),new A.jz("assets/icons/twitter.png",new A.TZ(),q),A.iK(q,q,10),new A.jz("/icons/linkdin.png",new A.U_(),q),A.iK(q,q,10),new A.jz("ass/icons/github.png",new A.U0(),q)],p),B.fp,B.dB),A.kT(new A.ic(new A.ba(350,450,0,1/0),A.iK(new A.An(2,q),q,a.a7(t.w).f.a.a/2),q),q,q)],p)
+p=A.a([B.Jm,B.F0,B.ys,B.F1,A.kT(A.Z8(A.a([A.a2a("I'm ",A.TI(B.k,25,B.au),q,q),A.a2a("Fahad Alazmi",A.TI(B.k,25,B.au),q,q)],p),B.fp,B.dB),q,q),A.kT(A.a2a("Mobile Apps Developer",A.TI(B.k,20,B.p),q,q),q,q),A.iK(q,50,q),A.Z8(A.a([new A.jz("assets/icons/email.png",new A.TX(),q),A.iK(q,q,10),new A.jz("assets/icons/phone-call.png",new A.TY(),q),A.iK(q,q,10),new A.jz("assets/icons/twitter.png",new A.TZ(),q),A.iK(q,q,10),new A.jz("assets/icons/linkdin.png",new A.U_(),q),A.iK(q,q,10),new A.jz("assets/icons/github.png",new A.U0(),q)],p),B.fp,B.dB),A.kT(new A.ic(new A.ba(350,450,0,1/0),A.iK(new A.An(2,q),q,a.a7(t.w).f.a.a/2),q),q,q)],p)
 s=A.aP([null,0],t.st,t.S)
 r=!0
 r=r?B.uT:q
@@ -35165,7 +35165,7 @@ S(a){var s=null
 return new A.Fz(s,s,s,s,s,B.J,s,!1,s,A.a2a(this.c,A.TI(B.k,16,s),s,s),s)}}
 A.BQ.prototype={
 S(a){var s=null,r=A.Oh(180),q=new A.ch(B.co,5,B.ai,1)
-return A.kT(A.Po(s,new A.zF(A.Oh(180),A.aet("/icons/download.jpeg",B.an,B.kf,180,180),s),s,new A.fX(s,s,new A.d1(q,q,q,q),r,B.zF,s,B.bl),s,s,s,s),s,s)}}
+return A.kT(A.Po(s,new A.zF(A.Oh(180),A.aet("assets/icons/download.jpeg",B.an,B.kf,180,180),s),s,new A.fX(s,s,new A.d1(q,q,q,q),r,B.zF,s,B.bl),s,s,s,s),s,s)}}
 A.jz.prototype={
 S(a){var s=null
 return A.kT(A.ab_(!1,!0,A.Po(B.an,A.aet(this.c,B.an,B.kf,50,50),s,s,50,s,s,50),s,!0,s,s,s,s,s,s,s,s,s,this.d,s,s,s,s),s,s)}}
