@@ -1,6 +1,6 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:my_web_profile/colors_app.dart';
 
 class SvgWidget extends StatelessWidget {
   const SvgWidget({super.key, required this.path, this.size = 25, this.onTap});
@@ -17,8 +17,14 @@ class SvgWidget extends StatelessWidget {
             fit: BoxFit.contain,
             height: size,
             width: size,
-            placeholderBuilder: (BuildContext context) => const SizedBox(
-                width: 25, height: 25, child: CircularProgressIndicator()),
+            placeholderBuilder: (BuildContext context) => Center(
+                  child: SizedBox(
+                      width: 25,
+                      height: 25,
+                      child: CircularProgressIndicator(
+                        color: ColorsApp.mainAppColor,
+                      )),
+                ),
             semanticsLabel: 'Acme Logo'),
       ),
     );
